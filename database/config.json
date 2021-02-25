@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "workorder_lr_cn",
+    "password": "XZrT7FnTjsLtkiiF",
+    "database": "workorder_lr_cn",
+    "host": "www.lr.cn",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "password",
+    "database": "mycoding-database-test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "password",
+    "database": "mycoding-database-production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
+
